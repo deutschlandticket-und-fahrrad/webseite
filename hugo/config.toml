@@ -1,0 +1,7 @@
+baseURL="https://deutschlandticket-und-fahrrad.de/"
+languageCode="de-de"
+defaultLanguage="de"
+title="Deutschlandticket und Fahrrad"
+theme="hugo-theme-relearn"
+[outputs]
+  home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
